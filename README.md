@@ -1,40 +1,26 @@
-# portfolio-website# Abdiwakil & Associates Advocates Website
+# Personal Website
 
-This is the **official static website** for **Abdiwakil & Associates Advocates**, a law firm. The site is built with **HTML and CSS** and designed to be clean, responsive, and professional.
+This is a simple personal website built using HTML and CSS.
+It was created as a beginner project to practice web layout, structure, and styling.
 
-## Table of Contents
-- [Overview](#overview)
-- [Features](#features)
-- [Technologies Used](#technologies-used)
-- [Folder Structure](#folder-structure)
-- [Installation](#installation)
-- [Usage](#usage)
-- [License](#license)
-
----
-
-## Overview
-This website serves as the online presence for the law firm, providing:
-- A professional homepage with a hero banner and firm slogan
-- Navigation to core pages: Home, About, Services, Testimonials, Contact
-- Clean and responsive design suitable for desktop and mobile devices
-
----
-
-## Features
-- **Responsive layout**: Works on desktops, tablets, and mobile devices
-- **Hero section**: Large banner with firm slogan
-- **Navigation menu**: Links to main pages of the site
-- **Footer**: Copyright information
-- **Simple, maintainable code**: Built entirely with HTML and CSS
-
----
+## Live Demo
+View the website here:  
+https://gleaming-licorice-30e10e.netlify.app/
 
 ## Technologies Used
-- **HTML5**
-- **CSS3**
-- Deployed on **Netlify**
+- HTML
+- CSS
 
----
+## Features
+- Responsive layout
+- Clean and simple design
+- Static website
 
-## Folder Structure
+## What I Learned
+- Structuring web pages with HTML
+- Styling layouts using CSS
+- Deploying a website using Netlify
+- Uploading and managing projects on GitHub
+
+## Status
+This project is complete, but I may improve it as I continue learning.
