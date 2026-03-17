@@ -1,3 +1,4 @@
+<img width="1323" height="629" alt="Screenshot 2026-03-17 124520" src="https://github.com/user-attachments/assets/89d7809f-8593-48a5-b064-2df5c6184b4b" />
 # Personal Website
 
 This is a simple personal website built using HTML and CSS.
